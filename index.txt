@@ -1,10 +1,10 @@
-Wildvine - Give Love for Saving World Animals
+
 
 
 
 #---------- HEADER ----------#
 
-Wildvine
+PawRescue
 
 English
 French
@@ -38,7 +38,7 @@ Donation
 #---------- HERO ----------#
 
 alt = Wavy line
-Welcome to Wildvine
+Welcome to PawRescue
 
 Give Love for Saving
 World Animals
@@ -244,4 +244,4 @@ alt = Horses
 Terms of use
 Privacy & Policy
 
-Copyright 2022 codewithsadee. All Rights Reserved.
+Copyright 2025 Sage-Levi. All Rights Reserved.
