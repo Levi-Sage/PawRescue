@@ -10,6 +10,7 @@
   <br />
 
   <h2 align="center">PawRescue - Fun website</h2>
+  <h2 align="center">Not Fun - Charity website</h2>
 
   Wildvine is a fully responsive charity website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
